@@ -1,0 +1,54 @@
+[
+    {
+        "Shift_Of_Sentiment": "Negative - Negative",
+        "Total_Sentiments": 200
+    },
+    {
+        "Shift_Of_Sentiment": "Negative - Neutral\r\n",
+        "Total_Sentiments": 300
+    },
+    {
+        "Shift_Of_Sentiment": "Negative - Neutral",
+        "Total_Sentiments": 200
+    },
+    {
+        "Shift_Of_Sentiment": "Negative - Positive\r\n",
+        "Total_Sentiments": 300
+    },
+    {
+        "Shift_Of_Sentiment": "Negative - Positive",
+        "Total_Sentiments": 200
+    },
+    {
+        "Shift_Of_Sentiment": "Neutral - Negative",
+        "Total_Sentiments": 100
+    },
+    {
+        "Shift_Of_Sentiment": "Neutral - Neutral",
+        "Total_Sentiments": 200
+    },
+    {
+        "Shift_Of_Sentiment": "Neutral - Positive",
+        "Total_Sentiments": 400
+    },
+    {
+        "Shift_Of_Sentiment": "Positive - Negative\r\n",
+        "Total_Sentiments": 1000
+    },
+    {
+        "Shift_Of_Sentiment": "Positive - Negative",
+        "Total_Sentiments": 1000
+    },
+    {
+        "Shift_Of_Sentiment": "Positive - Neutral",
+        "Total_Sentiments": 30000
+    },
+    {
+        "Shift_Of_Sentiment": "Positive - Positive\r\n",
+        "Total_Sentiments": 1000
+    },
+    {
+        "Shift_Of_Sentiment": "Positive - Positive",
+        "Total_Sentiments": 200000
+    }
+]
