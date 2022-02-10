@@ -20,7 +20,7 @@
     "highcharts": "^7.2.1",
     "highcharts-drilldown": "^0.1.7",
     "jquery": "^3.4.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "randomcolor": "^0.5.4",
     "react": "^16.8.4",
